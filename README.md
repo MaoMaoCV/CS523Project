@@ -1,6 +1,7 @@
 # CS523Project
 
 Mao Mao
+
 ---
 
 ## Submit your project milestone report	Sunday, November 5	
@@ -9,7 +10,7 @@ Mao Mao
 submit 3 pages (pdf) online before meeting. 
 
 ---
-Structure:
+## Structure:
 
 Title
 
@@ -23,7 +24,9 @@ Methods
 
 Results"
 
-"Evaluation metrics for project milestone (20 points)
+---
+
+## "Evaluation metrics for project milestone (20 points)
 
 Introduction: 2 points
 
