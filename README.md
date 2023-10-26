@@ -2,12 +2,13 @@
 
 Mao Mao
 
-
-Submit your project milestone report	Sunday, November 5	
+---
+## Submit your project milestone report	Sunday, November 5	
 "Milestone document - 
 
 submit 3 pages (pdf) online before meeting. 
 
+---
 Structure:
 
 Title
