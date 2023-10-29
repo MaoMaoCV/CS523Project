@@ -4,6 +4,9 @@ Mao Mao
 
 ---
 
+![anything](/idea
+.jpg)
+
 ## Submit your project milestone report	Sunday, November 5	
 "Milestone document - 
 
