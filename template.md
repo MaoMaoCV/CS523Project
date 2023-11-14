@@ -50,3 +50,31 @@ Generate detailed caption for this image:
 **GPT4 Vision:**
 
 VISION_RESPONSE_FOR_IMAGE2
+
+------------------
+
+**You:**
+
+![Europa](/1163107021269241918-FusionBrain-1.png)
+
+Generate detailed caption for this image:
+
+------------------
+
+**GPT4 Vision:**
+
+VISION_RESPONSE_FOR_IMAGE1
+
+------------------
+
+**You:**
+
+![Europa](/1163107021269241918-FusionBrain-2.png)
+
+Generate detailed caption for this image:
+
+------------------
+
+**GPT4 Vision:**
+
+VISION_RESPONSE_FOR_IMAGE2
