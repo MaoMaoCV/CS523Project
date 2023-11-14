@@ -53,6 +53,10 @@ VISION_RESPONSE_FOR_IMAGE2
 
 ------------------
 
+## New Chat
+
+------------------
+
 **You:**
 
 ![Europa](/1163107021269241918-FusionBrain-1.png)
