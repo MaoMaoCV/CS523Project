@@ -53,7 +53,7 @@ VISION_RESPONSE_FOR_IMAGE2
 
 ------------------
 
-## New Chat
+## New Chat(FusionBrain)
 
 ------------------
 
