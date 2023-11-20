@@ -1,7 +1,8 @@
 # CS523Project
 
-Mao Mao
-Haotian Shangguan
+Mao Mao  
+Haotian Shangguan  
+Hao Qi
 ---
 
 ![anything](/idea.jpg)
