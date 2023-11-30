@@ -11,7 +11,7 @@ PROMPT3 = Explain what is in the image -> SENTENCE7, SENTENCE8, SENTENCE9 -> ...
 
 ### New Conversation  
 
-(PDF screenshots recording the conversation is sufficient. The process of repeatedly generating descriptions using a prompt and the process of comparing descriptions produced by different prompts both require initiating separate conversation boxes.) 
+(The process of repeatedly generating descriptions using a prompt and the process of comparing descriptions produced by different prompts both require initiating separate conversation boxes. The results are stored in their respective folders in the form of text and screenshots.) 
 
 To give similarity scores between the sentences, you will analyze the key elements of each sentence and compare them across all four sentences. The similarity scores will range from 0 to 1, where 0 represents no similarity and 1 represents identical sentences. Group the three sentences that are most similar, and compare with the other two sentences separately.  
 SENTENCE1.  
