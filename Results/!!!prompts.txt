@@ -1,0 +1,9 @@
+Image to Text I
+
+1~3: Describe the image in detail
+4~6: Describe what is in the image
+7~9: Explain what is in the image
+
+Image to Text II
+
+**TBD**
