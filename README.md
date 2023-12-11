@@ -7,7 +7,7 @@ Hao Qi
 
 ![anything](/idea.jpg)
 
-![WorkFlow2](/idea+.jpg)
+![WorkFlow2](/idea+.png)
 
 
 
