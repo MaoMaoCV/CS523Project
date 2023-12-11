@@ -7,6 +7,8 @@ Hao Qi
 
 ![anything](/idea.jpg)
 
+![WorkFlow2](/idea+.jpg)
+
 
 
 ## Step 1: Setting Up the Environment
