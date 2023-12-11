@@ -10,7 +10,6 @@ Hao Qi
 ![WorkFlow2](/idea+.png)
 
 
-
 ## Step 1: Setting Up the Environment
 1.1. Get the Necessary Software: You will need:
 ChatGPT-4 Vision model (or any other visual model)
@@ -64,40 +63,3 @@ Using a string similarity metric, we might find the similarity score between "A 
 This score gives an idea of how well the generated image matches the original description.
 Remember, this method is not definitive, and there's subjectivity involved, especially in how you interpret and score the results. However, using a visual model like ChatGPT-4 Vision can provide an additional perspective on the quality of generated images.
 
-## Submit your project milestone report	Sunday, November 5	
-"Milestone document - 
-
-submit 3 pages (pdf) online before meeting. 
-
----
-## Structure:
-
-Title
-
-Abstract
-
-Introduction
-
-Related work
-
-Methods
-
-Results"
-
----
-
-## "Evaluation metrics for project milestone (20 points)
-
-Introduction: 2 points
-
-Related work and references: 2 points
-
-Problem formulation, technical depth and innovation: 3 points
-
-Methods, technical depth and innovation, architecture and design: 5 points
-
-Preliminary results, Github repo, data, code correctness, readability: 8 points"
-
----
-
-## Title:
